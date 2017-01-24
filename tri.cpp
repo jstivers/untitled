@@ -11,15 +11,19 @@ int main() {
     cin >> theta;
     // algorithm
     theta = ((theta * M_PI )/ 180);
-    length = 0;
     for (int count = 0;count < height; count++){
         cout << ("\n");
-        length = count/tan(theta);
-        for (int count2 = 0; count2 <= length-1; count2++){
+        length = count/cos(theta);
+        if(length > 20 and length < 30){
+            length = 20;
+        }
+        for (int count2 = 0; count2 <= length; count2++) {
             cout << ("*");
+        }
+
 
         }
-        }
+
 
 
 
