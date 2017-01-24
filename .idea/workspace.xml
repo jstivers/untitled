@@ -12,7 +12,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69f2a85b-68aa-449d-94c1-1408fdd793e3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -318,12 +317,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1485251282608</updated>
-      <workItem from="1485251284217" duration="5698000" />
+      <workItem from="1485251284217" duration="5729000" />
     </task>
+    <task id="LOCAL-00001" summary="check with prof">
+      <created>1485283815433</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1485283815433</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5698000" />
+    <option name="totallyTimeSpent" value="5729000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -354,6 +361,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="check with prof" />
+    <option name="LAST_COMMIT_MESSAGE" value="check with prof" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
